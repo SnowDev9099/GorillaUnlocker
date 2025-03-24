@@ -99,9 +99,9 @@ namespace GorillaUnlocker
             if (failMessage.Contains("UNABLE"))
             {
                 Debug.Log("GorillaUnlocker: Updating Photon and PlayFab settings.");
-                PhotonNetwork.PhotonServerSettings.AppSettings.AppIdRealtime = "67da7426-4438-4eb4-a9f0-97cd26994cd3";
-                PhotonNetwork.PhotonServerSettings.AppSettings.AppIdVoice = "aad123d1-c6a0-4f01-af59-2346f0e40267";
-                PlayFabSettings.TitleId = "C5E1D";
+                PhotonNetwork.PhotonServerSettings.AppSettings.AppIdRealtime = "RealtimeID";
+                PhotonNetwork.PhotonServerSettings.AppSettings.AppIdVoice = "ChatID";
+                PlayFabSettings.TitleId = "AppID";
                 PhotonNetwork.ConnectUsingSettings();
                 return false;
             }
