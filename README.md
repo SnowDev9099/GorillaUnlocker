@@ -3,7 +3,7 @@
 a IMITATION of servers on any old version of gorilla tag this mod doesnt add working servers just makes boards green cosmetics will work after tinkering and other misc stuff like computer working.
 
 
-## a mod that if you install it to a older version of gorilla tag it will, allow for the computer to work, allow for you to buy cosmetics not limited though, turn the boards from red to green, and bring back any old version from the dust. i tried making it work with servers but that is near impossible and its against another axioms tos for gorilla tag.
+### a mod that if you install it to a older version of gorilla tag it will, allow for the computer to work, allow for you to buy cosmetics not limited though, turn the boards from red to green, and bring back any old version from the dust. i tried making it work with servers but that is near impossible and its against another axioms tos for gorilla tag.
 
 
 ### DO NOT INSTALL DO THE CURRENT VERSION. IT WILL BREAK YOUR SERVERS UNTIL YOU DELETE IT AND IS MOST LIKELY DETECTED AS A CHEAT
