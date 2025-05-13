@@ -2,6 +2,7 @@
 
 a IMITATION of servers on any old version of gorilla tag this mod doesnt add working servers just makes boards green cosmetics will work after tinkering and other misc stuff like computer working.
 
+also any version that is or newer then the nowruz update as they have switched to photon fusion and my photon id is realtime, therefor it may not work.
 
 ### a mod that if you install it to a older version of gorilla tag it will, allow for the computer to work, allow for you to buy cosmetics not limited though, turn the boards from red to green, and bring back any old version from the dust. i tried making it work with servers but that is near impossible and its against another axioms tos for gorilla tag.
 
